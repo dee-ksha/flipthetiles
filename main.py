@@ -100,14 +100,6 @@ for i in range(len(memPicsRect)):
     hiddenImages.append(False)
 
 
-# Print to the console for programmer's understanding
-
-print(memoryPictures)
-print(memPics)    
-print(memPicsRect)
-print(hiddenImages)
- 
-
 # The main loop
 gameLoop = True
 while gameLoop:
